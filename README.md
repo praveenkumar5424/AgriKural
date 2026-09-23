@@ -1,4 +1,4 @@
-# Tamil Nadu Agricultural Hub (தமிழ்நாடு வேளாண் மையம்)
+# AgriKural (தமிழ்நாடு வேளாண் மையம்)
 
 An AI-driven agricultural decision support platform and Farmer-to-Client (B2C) agro marketplace empowering farmers across all 38 districts of Tamil Nadu. The platform provides localized crop advisories, soil analysis, agromet weather forecasts, mandi prices, AI plant disease diagnostics, smart irrigation scheduling, Uzhavan government schemes, and direct farm-to-doorstep trade with zero intermediary broker fees.
 
