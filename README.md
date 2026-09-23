@@ -112,8 +112,8 @@ Rooted in timeless Tamil heritage and powered by modern deep-tech, AgriKural bri
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/praveenkumar5424/Tamil-Nadu-Agricultural-Hub.git
-cd Tamil-Nadu-Agricultural-Hub
+git clone https://github.com/praveenkumar5424/AgriKural.git
+cd AgriKural
 ```
 
 ### 2. Install Dependencies
