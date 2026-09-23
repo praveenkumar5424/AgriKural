@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌾 AgriKural (அக்ரிகுறள்)
+# 🌾 AgriKural (அக்ரிகுரல்)
 ### *Next-Gen AI Agro-Intelligence, IoT Field Telemetry & Zero-Middleman Marketplace for Tamil Nadu*
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-agrikural.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://agrikural.vercel.app)
