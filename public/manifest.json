@@ -1,0 +1,45 @@
+{
+  "name": "Tamil Nadu Agricultural Hub",
+  "short_name": "TN Agri Hub",
+  "description": "AI-Driven Decision Support System for Tamil Nadu Farmers (Crop Advisory, Weather, Mandi Prices, Disease Scanner & Uzhavan Schemes)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23064e3b'/><circle cx='50' cy='50' r='35' fill='%2310b981' opacity='0.2'/><path d='M50 20 C35 35 30 60 50 80 C70 60 65 35 50 20 Z' fill='%2334d399'/><path d='M50 20 L50 80' stroke='%23064e3b' stroke-width='3'/><path d='M50 40 Q65 45 60 55' stroke='%23064e3b' stroke-width='2' fill='none'/><path d='M50 50 Q35 55 40 65' stroke='%23064e3b' stroke-width='2' fill='none'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Disease Scanner",
+      "short_name": "Leaf Scan",
+      "description": "Diagnose crop leaf diseases offline and get treatment report",
+      "url": "/?tab=disease-scanner"
+    },
+    {
+      "name": "Mandi Prices",
+      "short_name": "Mandi Rates",
+      "description": "View 7-day commodity market price forecasts",
+      "url": "/?tab=mandi-prices"
+    },
+    {
+      "name": "Uzhavan Schemes",
+      "short_name": "Govt Schemes",
+      "description": "Tamil Nadu Uzhavan scheme eligibility and crop insurance",
+      "url": "/?tab=gov-schemes"
+    },
+    {
+      "name": "WhatsApp Alerts",
+      "short_name": "Agro Alerts",
+      "description": "Emergency agro weather and pest outbreak alerts",
+      "url": "/?tab=agro-alerts"
+    }
+  ],
+  "categories": ["agriculture", "utilities", "productivity", "government"]
+}

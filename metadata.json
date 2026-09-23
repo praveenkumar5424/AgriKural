@@ -1,0 +1,6 @@
+{
+  "name": "Tamil Nadu Agricultural Hub",
+  "description": "An AI-driven decision support and Farmer-to-Client (B2C) agro marketplace platform offering Tamil Nadu farmers personalized crop recommendations, soil analysis, weather forecasts, market prices, disease detection, printable PDF reports, smart irrigation, Uzhavan government schemes, and direct farmer-to-client trade with zero broker fees.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
