@@ -1,7 +1,7 @@
 {
-  "name": "Tamil Nadu Agricultural Hub",
-  "short_name": "TN Agri Hub",
-  "description": "AI-Driven Decision Support System for Tamil Nadu Farmers (Crop Advisory, Weather, Mandi Prices, Disease Scanner & Uzhavan Schemes)",
+  "name": "AgriKural (அக்ரிகுரல்)",
+  "short_name": "அக்ரிகுரல்",
+  "description": "AgriKural (அக்ரிகுரல்) — AI-Driven Decision Support System for Tamil Nadu Farmers (Crop Advisory, Weather, Mandi Prices, Disease Scanner & Uzhavan Schemes)",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#064e3b",

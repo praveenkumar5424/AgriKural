@@ -56,7 +56,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ language: propLanguage, 
           <div className="flex flex-wrap items-center gap-2.5">
             <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-extrabold uppercase tracking-wide bg-[#12533D] text-emerald-300 border border-emerald-500/30">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-              {isTamil ? 'தமிழ்நாடு வேளாண் மையம்' : 'Tamil Nadu Agricultural Hub'}
+              {isTamil ? 'அக்ரிகுரல் — தமிழ்நாடு வேளாண் மையம்' : 'AgriKural — Tamil Nadu Agricultural Hub'}
             </span>
             <span className="inline-flex items-center px-3 py-1 rounded-full text-[11px] font-extrabold uppercase tracking-wide bg-[#12533D] text-emerald-300 border border-emerald-500/30">
               {isTamil ? 'தமிழ்நாடு 38 மாவட்டங்கள்' : '38 Tamil Nadu Districts'}
@@ -65,7 +65,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ language: propLanguage, 
 
           {/* Title */}
           <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight font-sans text-amber-300 drop-shadow-xs">
-            {isTamil ? 'தமிழ்நாடு உழவர் வழிகாட்டி மற்றும் வேளாண் மையம்' : 'Tamil Nadu Farmer Advisory & Agricultural Hub'}
+            {isTamil ? 'அக்ரிகுரல்: தமிழ்நாடு உழவர் வழிகாட்டி மற்றும் வேளாண் மையம்' : 'AgriKural: Tamil Nadu Farmer Advisory & Agricultural Hub'}
           </h2>
 
           {/* Subtitle description */}

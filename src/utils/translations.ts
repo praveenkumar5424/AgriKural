@@ -203,11 +203,11 @@ export interface TranslationDictionary extends BaseTranslationDictionary {
 
 export const TRANSLATIONS: Record<Language, BaseTranslationDictionary> = {
   en: {
-    appTitle: 'Tamil Nadu Agricultural',
+    appTitle: 'AgriKural',
     appSubtitle: 'TN Space Link',
     activeRegion: 'ACTIVE REGION ZONE • TAMIL NADU',
     telemetryBadge: '38 DISTRICTS TELEMETRY',
-    heroTitle: 'Tamil Nadu Agricultural Hub (தமிழ்நாடு)',
+    heroTitle: 'AgriKural (அக்ரிகுரல்) — Tamil Nadu Agricultural Hub',
     heroDescription: 'Comprehensive soil intelligence, agromet advisory, real-time weather analytics, farm labor logistics, and live market mandi rates synchronized across all 38 districts of Tamil Nadu.',
     spaceLink: 'TN Space Link',
     activeStatus: 'Active',
@@ -412,11 +412,11 @@ export const TRANSLATIONS: Record<Language, BaseTranslationDictionary> = {
   },
 
   ta: {
-    appTitle: 'தமிழ்நாடு வேளாண்மை மையம்',
+    appTitle: 'அக்ரிகுரல் (AgriKural)',
     appSubtitle: 'தமிழ்நாடு விண்வெளி இணைப்பு',
     activeRegion: 'செயலில் உள்ள மண்டலம் • தமிழ்நாடு',
     telemetryBadge: '38 மாவட்ட தரவுகள்',
-    heroTitle: 'தமிழ்நாடு உழவர் வழிகாட்டி மற்றும் வேளாண் மையம் (TN Agri)',
+    heroTitle: 'அக்ரிகுரல் — தமிழ்நாடு உழவர் வழிகாட்டி மற்றும் வேளாண் மையம்',
     heroDescription: 'மண் பரிசோதனை, வானிலை முன்னறிவிப்பு, பூச்சி நோய் கண்டறிதல், பண்ணை தொழிலாளர் கூலி மேலாண்மை மற்றும் 38 மாவட்ட நேரடி சந்தை விலை விவரங்கள்.',
     spaceLink: 'தமிழ்நாடு சாட்டிலைட் இணைப்பு',
     activeStatus: 'செயலில் உள்ளது',

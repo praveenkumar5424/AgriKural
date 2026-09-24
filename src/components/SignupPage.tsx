@@ -133,7 +133,7 @@ export const SignupPage: React.FC<SignupPageProps> = ({ onNavigate }) => {
               onClick={() => onNavigate('/')}
               className="w-full py-3 px-4 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-sm flex items-center justify-center gap-2 transition-all shadow-xs cursor-pointer"
             >
-              <span>Enter Tamil Nadu Agricultural Hub</span>
+              <span>Enter AgriKural (அக்ரிகுரல்)</span>
               <ArrowRight className="w-4 h-4" />
             </button>
           </div>

@@ -508,7 +508,7 @@ export default function App() {
       <footer className="w-full bg-white border-t border-slate-200/80 py-4 px-4 sm:px-8 text-xs text-slate-500 text-center flex flex-wrap items-center justify-between gap-4 max-w-7xl mx-auto">
         <div className="flex items-center gap-2 font-medium">
           <span className="w-2 h-2 rounded-full bg-[#1B5E20]" />
-          <span>தமிழ்நாடு வேளாண் வழிகாட்டி (AgriKural)</span>
+          <span>தமிழ்நாடு வேளாண் வழிகாட்டி (AgriKural - அக்ரிகுரல்)</span>
           <span>•</span>
           <span>In technical alignment with TNAU &amp; Department of Agriculture</span>
         </div>
