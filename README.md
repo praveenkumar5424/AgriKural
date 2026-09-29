@@ -170,7 +170,15 @@ AgriKural is deployed on **Vercel**:
 
 ## 👨‍💻 Author & Contributions
 
-Created & Developed by ***[Praveen kumar] and ***[Pranesh Kumar] 
+Created & Developed by :[Praveen kumar] and [Pranesh Kumar] 
+
+
+
+
+
+
+
+
 Contributions, issues, and feature proposals are welcome! Feel free to open a pull request or submit an issue on GitHub.
 
 ---
